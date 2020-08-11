@@ -1,0 +1,4 @@
+# Ignore data files
+.zip
+.csv
+.txt
